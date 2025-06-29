@@ -51,7 +51,14 @@ To get started with the bot, you will need to have Python 3.12+ and pip installe
 
 ### 1. Set up the project
 
-Once you have the project files, you will need to install the required dependencies. You can do this by running the following command in your terminal:
+Once you have the project files, it is recommended to create a virtual environment to manage the project's dependencies.
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Next, install the required dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
