@@ -79,10 +79,7 @@ The bot token can be provided in two ways:
     ```bash
     export TELEGRAM_BOT_TOKEN="YOUR_BOT_TOKEN"
     ```
-    ```bash
-or directly run main.py
-```
-
+   
     Replace `"YOUR_BOT_TOKEN"` with the actual token you received from BotFather.
 
 2.  **Interactive Prompt:** If the `TELEGRAM_BOT_TOKEN` environment variable is not set, the bot will prompt you to enter the token when you run `main.py`.
