@@ -53,6 +53,16 @@ To get started with the bot, you will need to have Python 3.12+ and pip installe
 
 Once you have the project files, it is recommended to create a virtual environment to manage the project's dependencies.
 
+
+```bash
+git clone https://github.com/mwmQi/Telegram-PY-bot-simple.git
+```
+
+```bash
+cd Telegram-PY-bot-simple
+```
+
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate
